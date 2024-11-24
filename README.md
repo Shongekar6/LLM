@@ -51,10 +51,10 @@ Abstract
     - Memory Usage: The 1-bit model demonstrated substantial reduction in memory consumption.
     - Model Size: The storage size of the 1-bit model was much smaller, making it suitable for deployment on devices with limited storage capacity.
     - Accuracy: The 1-bit model showed near-equal accuracy to the full-precision model.
-    
+
+
  
- 
- 
+
  
  
  
